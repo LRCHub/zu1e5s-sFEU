@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サンズリバーリバイブ",
+  "base_artist": "島爺",
+  "createdAt": "2026-02-18T22:26:50.142811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンズリバーリバイブ",
+      "artist": "SymaG",
+      "has_synced": false,
+      "path": "select/01_サンズリバーリバイブ_SymaG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンズリバーリバイブ",
+      "artist": "島爺",
+      "has_synced": false,
+      "path": "select/pl_01_サンズリバーリバイブ_島爺.txt"
+    }
+  ]
+}
